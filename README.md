@@ -7,7 +7,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zRafa2011&show_icons=true&theme=dracula&count_private&locale=en&layout=compact" alt="zRafa2011" /></p>
 
-# Discord;
+## Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,c,discordjs,html,css,vscode,git,github" />
+
+## Discord;
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769311943235469393?theme=dark&bg=171717ecf&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=No%20activity%20here.)](https://discord.com/users/769311943235469393)
 
