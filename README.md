@@ -9,11 +9,11 @@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,github,discord" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,github" />
 
 ## Apps
 
-<img src="https://skillicons.dev/icons?i=ps,pr,ae,blender" />
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,blender,discord" />
 
 ## Discord;
 
