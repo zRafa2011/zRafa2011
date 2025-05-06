@@ -9,7 +9,7 @@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,github" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,github,idea,java" />
 
 ## Apps
 
