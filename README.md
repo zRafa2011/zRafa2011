@@ -1,5 +1,5 @@
-<h1 align="center">Voltar atrás nunca foi uma opção.</h1>
-<h3 align="center">Me chamo Cássio, tenho 18 anos e sou apaixonado por programação desde os 12. Atualmente, trabalho como desenvolvedor back-end, focado em Java. Com anos de experiência criando sistemas robustos e otimizados, já desenvolvi soluções para servidores de alta escala, bancos de dados eficientes e sistemas de jogos bem estruturados.</h3>
+<h1 align="center">Quer me conhecer.</h1>
+<h3 align="center">Me chamo Rafael, tenho 13 anos e sou apaixonado por programação desde os 11. Já desenvolvi projetos pequenos para mim em linguagens como HTML, JAVA, PYTHON entre outros.</h3>
 
 ##
 
