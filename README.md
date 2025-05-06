@@ -9,7 +9,7 @@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,c,discordjs,html,css,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python,,html,css,vscode,git,github" />
 
 ## Discord;
 
