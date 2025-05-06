@@ -9,10 +9,10 @@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,,html,css,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,github" />
 
 ## Discord;
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769311943235469393?theme=dark&bg=171717ecf&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=No%20activity%20here.)](https://discord.com/users/769311943235469393)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769311943235469393?theme=dark&bg=171717ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=No%20activity%20here.)](https://discord.com/users/769311943235469393)
 
 <p><img align="center" src="https://raw.githubusercontent.com/Putt0/Putt0/83c23a2332eb38d483e351db87e9b31633c10cd2/github-contribution-grid-snake.svg" alt="cobra" /></p>
