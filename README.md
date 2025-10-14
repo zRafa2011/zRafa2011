@@ -1,5 +1,5 @@
 <h1 align="center">Quer me conhecer.</h1>
-<h3 align="center">Me chamo Rafael, tenho 13 anos e sou apaixonado por programação desde os 11. Já desenvolvi projetos pequenos para mim em linguagens como HTML, JAVA, PYTHON entre outros.</h3>
+<h3 align="center">Me chamo Rafael, tenho 14 anos e sou apaixonado por programação desde os 11. Já desenvolvi projetos pequenos para mim em linguagens como HTML, JAVA, PYTHON entre outros.</h3>
 
 ##
 
