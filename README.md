@@ -3,8 +3,6 @@
 
 ##
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zRafa2011&show_icons=true&theme=dracula&count_private&locale=en" alt="zRafa2011" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zRafa2011&show_icons=true&theme=dracula&count_private&locale=en&layout=compact" alt="zRafa2011" /></p>
 
 ## Languages and Tools
